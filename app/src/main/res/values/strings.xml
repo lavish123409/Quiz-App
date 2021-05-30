@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="option_2">Option 2</string>
+    <string name="option_1">Option 1</string>
+    <string name="option_3">Option 3</string>
+    <string name="option_4">Option 4</string>
+    <string name="score">Score :</string>
+    <string name="quiz_logo">Quiz-IT</string>
+    <string name="play_button">Play</string>
+    <string name="try_again">Try Again ...</string>
+</resources>
